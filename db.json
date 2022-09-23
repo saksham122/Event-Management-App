@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "fname": "Sebastian",
+      "lname": "Eschweiler",
+      "email": "sebastian@codingthesmartway.com"
+    },
+    {
+      "id": 2,
+      "fname": "Steve",
+      "lname": "Palmer",
+      "email": "steve@codingthesmartway.com"
+    },
+    {
+      "id": 3,
+      "fname": "Ann",
+      "lname": "Smith",
+      "email": "ann@codingthesmartway.com"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
